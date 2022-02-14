@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/OperatorExercise.deps.json
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/OperatorExercise.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/OperatorExercise.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/OperatorExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/ref/OperatorExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/bin/Debug/net5.0/OperatorExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/ref/OperatorExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/OperatorExercise/OperatorExercise/obj/Debug/net5.0/OperatorExercise.genruntimeconfig.cache
