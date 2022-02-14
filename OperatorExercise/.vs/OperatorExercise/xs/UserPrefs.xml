@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B941D5E2-0FC1-4D1D-AE75-C833F66BE2B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorExerciseProject.cs">
+    <Files>
+      <File FileName="OperatorExerciseProject.cs" Line="45" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorExercise" expanded="True">
+            <Node name="OperatorExercise" expanded="True">
+              <Node name="OperatorExerciseProject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OperatorExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
